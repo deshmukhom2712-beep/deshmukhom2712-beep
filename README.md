@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Om Deshmukh 👋
 
-<!--
-**deshmukhom2712-beep/deshmukhom2712-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Artificial Intelligence & Data Science Graduate
 
-Here are some ideas to get you started:
+💻 Aspiring Python Developer | Data Analyst | Junior Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+Interested in Python development, data analysis, and machine learning.
+
+Enjoy building practical projects and solving problems using data.
+
+Currently improving my Python, SQL, and data science skills.
+
+Technical Skills
+
+Languages: Python, SQL
+
+Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+
+Machine Learning: Scikit-learn
+
+Tools: Jupyter Notebook, VS Code, Git, GitHub
+
+Projects
+
+Cafe Management System — Python, Tkinter
+
+Deepfake Detection — Python, Machine Learning
+
+Career Goal
+
+Seeking entry-level opportunities in Python Development, Data Analysis, and Data Science. 
